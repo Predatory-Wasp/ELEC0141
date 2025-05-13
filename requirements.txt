@@ -1,0 +1,5 @@
+jieba
+pkuseg
+gensim
+scikit-learn
+tensorflow
